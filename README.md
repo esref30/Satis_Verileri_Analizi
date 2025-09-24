@@ -6,5 +6,7 @@ Bu proje, bir satış veri seti kullanılarak müşteri davranışları ve satı
 Projenin amacı:
 
 Satışları artırabilecek içgörüler sunmak
+
 Müşteri segmentasyonu ve karlılık analizleri yapmak
+
 Zaman serisi analizi ile satış trendlerini gözlemlemek
